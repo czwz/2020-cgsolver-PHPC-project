@@ -1,0 +1,11 @@
+size of matrix = 10000 x 10000
+Matrix loaded from file lap2D_5pt_n100.mtx
+N = 10000
+nz = 29800
+val[0] = 4.000000
+Call cgsolver() on matrix size (10000 x 10000)
+        [STEP 488] residual = 1.103472E-10
+Time for CG (dense solver)  = 36.192359 [s]
+Call cgsolver_sparse() on matrix size (10000 x 10000)
+        [STEP 54] residual = 1.065248E-10
+Time for CG (sparse solver) = 0.005248 [s]
