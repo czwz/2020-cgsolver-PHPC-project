@@ -1,18 +1,12 @@
 # PHPC - CONJUGATE GRADIENT PROJECT
 
 HOWTO COMPILE AND RUN
-
-```diff
--This version only works for regular matrix (not sparse matrix).
--This version is still under development.
-```
-
 Requirements :
-
+```diff
 - a recent compiler (ex: gcc or intel)
 - a BLAS library (ex: openblas or intel MKL)
 - a MPI library (ex: mvapich2)
-
+```
 compile on your machine (example for mpi) :
 
 ```
